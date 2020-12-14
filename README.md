@@ -8,6 +8,6 @@ and displays the .db file in a table format.
 In order for new scans to appear on the web server, you must refresh the page each time you expect to see new entries. The server does not automatically refresh to see new  entries.
 
 ON THE TODO LIST:
-Add a remove button on the web server to be able to remove foul entries.
-Add sorting buttons to be able to sort the table.
 Add a manual entry form in case of a fouled PDF417 bar code that is unable to be read.
+Add a remove button on the web server to be able to remove incorrect entries.
+Add sorting buttons to be able to sort the table.
